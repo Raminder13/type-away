@@ -14,6 +14,7 @@ const inputWordElement = document.querySelector("#input-word");
 const startButtonElement = document.querySelector("#start");
 const resetButtonElement = document.querySelector("#reset");
 const audioElement = document.querySelector("audio");
+console.log(audioElement)
 
 var timer;
 var sec = 99;
